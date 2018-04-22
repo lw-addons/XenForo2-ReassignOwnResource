@@ -1,0 +1,21 @@
+{
+    "legacy_addon_id": "liam_reassignOwnResource",
+    "title": "Reassign Own Resource Permission",
+    "description": "",
+    "version_id": 2000070,
+    "version_string": "2.0.0",
+    "dev": "LW Addons (Liam Williams)",
+    "dev_url": "https://lw-addons.net",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "Contribute on GitHub": "#"
+    },
+    "require": {
+        "XFRM": [
+            "2000070",
+            "XenForo Resource Manager"
+        ]
+    },
+    "icon": ""
+}
